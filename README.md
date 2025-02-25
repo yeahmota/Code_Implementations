@@ -1,2 +1,2 @@
-# JAVA-Projects
-Implementation of some JAVA learns
+# CODE-IMPLEMENTATIONS
+Implementation of some coding learns
